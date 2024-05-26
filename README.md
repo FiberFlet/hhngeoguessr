@@ -1,2 +1,2 @@
 # hhngeoguessr
-a verison of geoguessr for HHN
+This is a small project that I made over a couple days. It only has houses from hhn29-hhn32 becuase those are the years I went. There are most likely bugs and other things that prolly wont be updated. I don't claim ownership of any of the assets used in this project such as screen shots and other universal owned properity. Most of the walkthrough screenshots are from https://www.youtube.com/@ThemeParkHD youtube videos Also make sure you pip install -r "requirements" for this to work
